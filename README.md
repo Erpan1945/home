@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Raekhandi Yoga Gusmawan</h1>
-<h3 align="center">Back End Developer | #KNTL Kids Need To Learn 🐧</h3>
+<h1 align="center">Hi, I'm Irfan Abdurrahman</h1>
+<h3 align="center">UI/UX Designer | #KNTL Kids Need To Learn 🐧</h3>
 
 <br><br>
 
@@ -74,7 +74,7 @@
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Synthever&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Erpan1945&theme=dark)](https://git.io/streak-stats)
   
 </div>
 
@@ -89,4 +89,4 @@
 ---
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://saweria.co/axlReyzzx)
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://saweria.co/yrpan29)
