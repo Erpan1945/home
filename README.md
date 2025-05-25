@@ -13,7 +13,7 @@
   <br>
 
   <h3 align="center">Database</h3>
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/phpmyadmin-blue?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="MongoDB" />
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" />
 
   <br>
