@@ -8,7 +8,7 @@
 
   <br>
 
-  ![snake gif](https://github.com/Erpan1945/Erpan1945/blob/main/github-contribution-grid-snake-dark.svg)
+  ![snake gif](https://github.com/Erpan1945/home/blob/main/github-contribution-grid-snake-dark.svg)
 
   <br>
 
